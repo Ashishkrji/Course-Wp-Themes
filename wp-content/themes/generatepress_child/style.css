@@ -1,0 +1,13 @@
+/*
+ Theme Name:   WebpressHub.net
+ Theme URI:    https://webpresshub.net/readymade-designs/
+ Description:  Its a GeneratePress child theme for Course Selling website Template by WebpressHub
+ Author:       WebpressHub.net
+ Author URI:   https://WebpressHub.net/
+ Template:     generatepress
+ Version:      0.1
+*/
+
+.tutor-modal.tutor-login-modal.tutor-is-active {
+    display: none;
+}
